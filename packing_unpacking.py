@@ -1,0 +1,9 @@
+a=1
+b=2
+c=3
+t=a,b,c
+print("t:",t)
+x,y,z=t
+print("x:",x)
+print("y:",y)
+print("z:",z)

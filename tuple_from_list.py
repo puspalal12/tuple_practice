@@ -1,0 +1,6 @@
+l=list(range(1,11))
+print("list is:",l)
+print(type(l))
+t=tuple(l)
+print("tuple is:",t)
+print(type(t))
